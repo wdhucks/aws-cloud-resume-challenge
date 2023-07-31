@@ -12,4 +12,10 @@ This is my attempt at cloud resume challenge in AWS. [The Cloud Resume Challenge
 
 * **Route53:** The domain is hosted and configured in AWS Route53
 
+* **AWS Lambda:** The python function to count and store views in DynamoDB uses Lambda
+
+* **DynamoDB:** The view count is stored in DynamoDB
+
+* **Github Actions:** All updates and changes are pushed with Github commands in the CLI
+
 
