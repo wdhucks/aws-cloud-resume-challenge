@@ -7,12 +7,15 @@ This is my attempt at cloud resume challenge in AWS. [The Cloud Resume Challenge
 ## Services Used
 
 * S3
+
 The files are hosted in an S3 bucket.
 
 * AWS CloudFront
+
 CloudFront is used as the CDN.
 
 * Route53
+
 The domain is hosted and configured in AWS Route53
 
 
